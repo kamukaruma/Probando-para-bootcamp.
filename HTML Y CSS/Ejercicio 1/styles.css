@@ -1,0 +1,30 @@
+.classheader{
+    font-family:""
+}
+a {
+    text-decoration: none;
+    text-decoration-color:rgb(237, 242, 247)
+}
+
+.classnav {
+    font-family: 'fuenteuno';
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+@font-face {
+    font-family: 'fuenteuno';
+    src: url(PermanentMarker-Regular.ttf);
+}
+
+.bannerheader {
+    flex:top;
+    weight: 25%;
+    height: 500:
+    
+}
+
+.yummylogo {
+    color:rgb(1, 7, 12)
+}

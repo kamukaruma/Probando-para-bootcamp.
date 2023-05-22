@@ -1,0 +1,48 @@
+* {
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+
+body {
+    width:100vw;
+    height:100dvb;
+    background-image:url(./assets/coche2.jpg);
+    image-rendering:auto;
+    position:absolute;
+    background-size:cover;
+}
+
+.header {
+    width: 100vw;
+    height: 8dvw;
+    content:"";
+    border-bottom: 4px solid white:
+
+}
+
+.header_nav {
+    width:100%;
+    height: 100px;
+    display:flex;
+    justify-content:space-between;
+    margin:10px;
+    padding:20px;
+}
+
+.header_nav_ul1 {
+    color: white;
+    display:flex;
+    margin:20px;
+    width:30%;
+    height: 30px;
+    justify-content:space-between;
+    font-size:small;
+    font-family: url(./assets/SeniorService.ttf);
+   
+}
+
+.header_nav_ul1--li1 {
+    text-decoration:none;
+}
+

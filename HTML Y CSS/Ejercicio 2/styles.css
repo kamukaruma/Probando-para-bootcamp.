@@ -1,0 +1,97 @@
+* {
+    text-decoration:none;
+}
+
+.header {
+    display:flex;
+    justify-content:space-between;
+    border-bottom: 2px solid grey;
+
+}
+
+.header_logo {
+    width:30%;
+    height:80px;
+}
+
+.header_img_logo {
+    width:50%;
+    object-fit:cover;
+    
+}
+
+.header_users {
+     text-align:end;
+     text-align:top;
+
+}
+
+.b_text{
+    position:absolute;
+    display:flex;
+    
+
+}
+
+.header_text {
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.main { 
+   margin-left:60px;
+   
+}
+
+.createaccount {
+    font-family: sans-serif;
+    text-align:inline-block;
+}
+
+.logogoogle {
+    width: 16px;
+    height:16px;
+}
+
+.google_button {
+    width:150px;
+    height: 30px;
+    align:center;
+}
+
+.logofacebook {
+    width: 18px;
+    height: 18px;
+
+}
+
+.facebook_button {
+    width:165px;
+    height: 30px;
+    align:center;
+}
+
+.b_text_p {
+    margin-left: 100px;
+    margin-top:30px;
+}
+
+.form{
+display:flex;
+margin-left:60px;
+}
+
+.main_form_submit {
+    padding-top: 20px;
+
+}
+
+.main_form_submit-create {
+    padding-top:20px;
+    border-radius: 20px;
+}
+
+.rounded-button {
+    border-radius: 20px;
+
+}

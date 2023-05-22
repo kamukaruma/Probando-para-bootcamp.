@@ -1,0 +1,15 @@
+*{
+    width:100vw;
+    height:100dvw;
+    
+}
+
+.container {
+    display:flex;
+    justify-content:space-between;
+}
+
+.b_text {
+    rigth: 60px;
+
+}
